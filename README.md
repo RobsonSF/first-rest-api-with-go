@@ -1,1 +1,3 @@
-# first-rest-api-with-go
+# First Rest API with Go
+
+### [Formação Go Developer By DIO](https://www.dio.me/)
